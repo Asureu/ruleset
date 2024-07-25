@@ -1,5 +1,10 @@
 # 自己写的规则-直连
+
+# 游戏网站
 DOMAIN-SUFFIX,gamer520.com
+DOMAIN,gator.volces.com
+DOMAIN-SUFFIX,eccdnx.com
+
 DOMAIN-SUFFIX,appinn.com
 DOMAIN-SUFFIX,tophub.today
 DOMAIN-SUFFIX,ipadown.com
