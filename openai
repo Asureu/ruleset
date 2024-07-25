@@ -41,6 +41,10 @@ DOMAIN-SUFFIX,usefathom.com
 #poe
 DOMAIN-SUFFIX,poe.com
 
+#genspark AI搜索
+DOMAIN-SUFFIX,genspark.ai
+DOMAIN-KEYWORD,genspark
+
 # openl AI翻译
 DOMAIN-SUFFIX,openl.io
 
