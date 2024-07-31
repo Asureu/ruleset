@@ -8,6 +8,10 @@ DOMAIN-SUFFIX,eccdnx.com
 # 豆包
 DOMAIN-SUFFIX,doubao.com
 
+# 字节
+lf3-config.bytetcc.com
+abtestvm.bytedance.com
+
 DOMAIN-SUFFIX,appinn.com
 DOMAIN-SUFFIX,tophub.today
 DOMAIN-SUFFIX,ipadown.com
