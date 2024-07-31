@@ -9,8 +9,8 @@ DOMAIN-SUFFIX,eccdnx.com
 DOMAIN-SUFFIX,doubao.com
 
 # 字节
-lf3-config.bytetcc.com
-abtestvm.bytedance.com
+DOMAIN-SUFFIX,lf3-config.bytetcc.com
+DOMAIN-SUFFIX,abtestvm.bytedance.com
 
 DOMAIN-SUFFIX,appinn.com
 DOMAIN-SUFFIX,tophub.today
