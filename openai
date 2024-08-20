@@ -44,3 +44,6 @@ DOMAIN-SUFFIX,www.bing.com
 DOMAIN-SUFFIX,www.bingapis.com
 DOMAIN-SUFFIX,bat.bing.com
 DOMAIN-SUFFIX,bingstatic.com
+
+# felo.ai
+DOMAIN-SUFFIX,felo.ai
