@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,abtestvm.bytedance.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,linuxdo.org
 
+# felo.ai
+DOMAIN-SUFFIX,felo.ai
+
 # 其他
 DOMAIN-SUFFIX,appinn.com
 DOMAIN-SUFFIX,tophub.today
@@ -24,4 +27,4 @@ DOMAIN-SUFFIX,chouti.com
 DOMAIN-SUFFIX,archive.biliimg.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,windhawk.net
-DOMAIN-SUFFIX,felo.ai
+
