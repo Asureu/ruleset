@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,felo.ai
 # 139邮箱
 DOMAIN-SUFFIX,139.com
 
+# B站空降助手
+DOMAIN-SUFFIX,bsbsb.top
+
 # 其他
 DOMAIN-SUFFIX,appinn.com
 DOMAIN-SUFFIX,tophub.today
