@@ -34,11 +34,17 @@ DOMAIN-SUFFIX,dida365.com
 # SubHD 字幕网
 DOMAIN-SUFFIX,subhd.tv
 
-# 其他
+# 小众软件
 DOMAIN-SUFFIX,appinn.com
+
+# 今日热榜
 DOMAIN-SUFFIX,tophub.today
-DOMAIN-SUFFIX,ipadown.com
+
+# 抽屉网
 DOMAIN-SUFFIX,chouti.com
+
+# 其他
+DOMAIN-SUFFIX,ipadown.com
 DOMAIN-SUFFIX,archive.biliimg.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,windhawk.net
