@@ -43,6 +43,12 @@ DOMAIN-SUFFIX,tophub.today
 # 抽屉网
 DOMAIN-SUFFIX,chouti.com
 
+# A姐分享
+DOMAIN-SUFFIX,ahhhhfs.com
+
+# openai api代理站
+DOMAIN-SUFFIX,burn.hair
+
 # 其他
 DOMAIN-SUFFIX,ipadown.com
 DOMAIN-SUFFIX,archive.biliimg.com
