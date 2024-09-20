@@ -1,9 +1,3 @@
-#claude
-DOMAIN-KEYWORD,claude
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,usefathom.com
-
 #poe
 DOMAIN-SUFFIX,poe.com
 
@@ -11,15 +5,8 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,genspark.ai
 DOMAIN-KEYWORD,genspark
 
-# openl AI翻译
+# OpenL AI翻译
 DOMAIN-SUFFIX,openl.io
-
-#Google Gemini
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,waa-pa.clients6.google.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
 
 # felo.ai
 # DOMAIN-SUFFIX,felo.ai
