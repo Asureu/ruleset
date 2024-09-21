@@ -3,10 +3,6 @@
 # 游戏网站
 DOMAIN-SUFFIX,gamer520.com
 DOMAIN-SUFFIX,gator.volces.com
-DOMAIN-SUFFIX,eccdnx.com
-
-# 豆包
-DOMAIN-SUFFIX,doubao.com
 
 # 字节
 DOMAIN-SUFFIX,lf3-config.bytetcc.com
@@ -19,29 +15,11 @@ DOMAIN-SUFFIX,linuxdo.org
 # felo.ai
 DOMAIN-SUFFIX,felo.ai
 
-# 139邮箱
-DOMAIN-SUFFIX,139.com
-
 # B站空降助手
 DOMAIN-SUFFIX,bsbsb.top
 
-# 本地宝
-DOMAIN-SUFFIX,bendibao.com
-
-# 滴答清单
-DOMAIN-SUFFIX,dida365.com
-
 # SubHD 字幕网
 DOMAIN-SUFFIX,subhd.tv
-
-# 小众软件
-DOMAIN-SUFFIX,appinn.com
-
-# 今日热榜
-DOMAIN-SUFFIX,tophub.today
-
-# 抽屉网
-DOMAIN-SUFFIX,chouti.com
 
 # A姐分享
 DOMAIN-SUFFIX,ahhhhfs.com
@@ -50,10 +28,7 @@ DOMAIN-SUFFIX,ahhhhfs.com
 DOMAIN-SUFFIX,burn.hair
 
 # 其他
-DOMAIN-SUFFIX,ipadown.com
-DOMAIN-SUFFIX,archive.biliimg.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,windhawk.net
 DOMAIN-SUFFIX,iconarchive.com
 DOMAIN-SUFFIX,nf.video
-DOMAIN-SUFFIX,uhaozu.com
