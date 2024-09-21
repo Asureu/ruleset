@@ -1,11 +1,15 @@
 # 人工智能
 
-#poe
+#Poe
 DOMAIN-SUFFIX,poe.com
 
-#genspark AI搜索
+#Genspark AI搜索
 DOMAIN-SUFFIX,genspark.ai
-DOMAIN-KEYWORD,genspark
+DOMAIN-KEYWORD,genspark.ai
 
 # OpenL AI翻译
 DOMAIN-SUFFIX,openl.io
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-KEYWORD,perplexity.ai
