@@ -8,11 +8,11 @@ DOMAIN-SUFFIX,gator.volces.com
 DOMAIN-SUFFIX,lf3-config.bytetcc.com
 DOMAIN-SUFFIX,abtestvm.bytedance.com
 
-# linux.do
+# Linux.do
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,linuxdo.org
 
-# felo.ai
+# Felo.ai
 DOMAIN-SUFFIX,felo.ai
 
 # B站空降助手
@@ -24,8 +24,11 @@ DOMAIN-SUFFIX,subhd.tv
 # A姐分享
 DOMAIN-SUFFIX,ahhhhfs.com
 
-# openai api代理站
+# Openai api代理站
 DOMAIN-SUFFIX,burn.hair
+
+# Greasyfork
+DOMAIN-SUFFIX,greasyfork.org
 
 # 其他
 DOMAIN-SUFFIX,freedidi.com
