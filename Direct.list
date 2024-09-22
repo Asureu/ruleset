@@ -30,9 +30,6 @@ DOMAIN-SUFFIX,burn.hair
 # Greasyfork
 DOMAIN-SUFFIX,greasyfork.org
 
-# WebRTC Leak Test
-DOMAIN-SUFFIX,browserleaks.com
-
 # 其他
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,windhawk.net
