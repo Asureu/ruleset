@@ -30,6 +30,10 @@ DOMAIN-SUFFIX,burn.hair
 # Greasyfork
 DOMAIN-SUFFIX,greasyfork.org
 
+# siliconflow 硅基流动
+DOMAIN-SUFFIX,siliconflow.cn
+DOMAIN-KEYWORD,siliconflow
+
 # 其他
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,windhawk.net
