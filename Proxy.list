@@ -1,3 +1,6 @@
 # 代理
 # Wolfram Research 
 DOMAIN-SUFFIX,wolframalpha.com
+
+ # WebRTC Leak Test
+DOMAIN-SUFFIX,browserleaks.com
