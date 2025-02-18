@@ -28,7 +28,7 @@ DOMAIN-SUFFIX,ahhhhfs.com
 DOMAIN-SUFFIX,burn.hair
 
 # Greasyfork
-DOMAIN-SUFFIX,greasyfork.org
+# DOMAIN-SUFFIX,greasyfork.org
 
 # siliconflow 硅基流动
 DOMAIN-SUFFIX,siliconflow.cn
